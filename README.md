@@ -32,9 +32,10 @@ These images are intended for personal customization of a Steam library and rela
 
 They can be useful when adding the game as a non-Steam title or when creating a more complete Steam-style presentation for the game.
 
-## Game
+## Games
 
 **Transformers: Devastation**
+**Transformers: Fall of Cybertron**
 
 Developed by **PlatinumGames** and originally published by **Activision**.
 
